@@ -1,16 +1,16 @@
 # Jekyll configuration
 
-name: Blog Name
-description: Software Developer
+name: zenBlog
+description: Ramblings on various topics ...
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: http://streetturtle.github.io
+url: http://zenandroid.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
-baseurl: '/jekyll-clean-dark'
+baseurl: ''
 
-author: Pavel Makhov
+author: zenAndroid
 copyright: 2015-2018
 
 share:
@@ -22,7 +22,7 @@ share:
   email: true
 
 social:
-  github: streetturtle
+  github: zenAndroid
   stackoverflow: ''
   linkedin:
   instagram: ''
@@ -30,7 +30,7 @@ social:
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key:
+google_analytics_key: UA-120883568-1
 # Yandex metrica (https://metrica.yandex.com/) leave blank to ignore or put true to use
 yandex_metrica:
 
