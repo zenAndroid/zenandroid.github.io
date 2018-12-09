@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Need. To. Unclutter.
-tags: meta pseudo-existential
+tags: meta 
+comments: true
 ---
 
 I really need to get rid of a lot of stuff that's just distracting fluff in my life.
