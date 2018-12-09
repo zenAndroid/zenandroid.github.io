@@ -2,6 +2,7 @@
 layout: post
 title: Heh
 tags: meta
+comments: true
 ---
 
 The goal of gem-based themes is to allow you to get all the benefits of a robust, continually
