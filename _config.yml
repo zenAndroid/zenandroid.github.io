@@ -23,10 +23,6 @@ share:
 
 social:
   github: zenAndroid
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
@@ -39,7 +35,6 @@ yandex_metrica:
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
 disqus: zenAndroid
-comments: true
 
 permalink: /:year/:month/:title
 
