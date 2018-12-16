@@ -52,8 +52,8 @@ This jekyll theme has some very cool features:
 
 And i think they are enough for me, so, ... YAY for me.
 
-{: .note .warning} I only saw the satistics functionality *after* i cloned/initialized my blog, so the functionality as of the date of writing this post, so the functionality isn't working ? but there's a file called `stats.html` and the repo has the code so i'll copy paste it i guess, and if that doesn't work, then i guess i'll just delete it because while nice to have, it's not crucial.
-
+>I only saw the satistics functionality *after* i cloned/initialized my blog, so the functionality as of the date of writing this post, so the functionality isn't working ? but there's a file called `stats.html` and the repo has the code so i'll copy paste it i guess, and if that doesn't work, then i guess i'll just delete it because while nice to have, it's not crucial.
+{: .note}
 
 Obviously when i update the about page, i'll credit the original creator of the jekyll clean dark (it's street turtle on github, i'll update the post with the relevant link).
 

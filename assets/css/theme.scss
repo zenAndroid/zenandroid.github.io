@@ -220,7 +220,7 @@ blockquote{
 
 blockquote.note p,
 blockquote.warning p{
-  height: 48px;
+  // height: 48px; zenAndroid commented this out on 2018-12-16 at 09:33
   vertical-align: middle;
   padding: 10px;
   font-style: normal;
