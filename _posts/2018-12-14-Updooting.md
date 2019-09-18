@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 tags: meta
 title: Getting back up to speed
 description: In which i talk about this new jekyll theme and its propreties.
