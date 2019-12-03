@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: zenBlog
-description: Ramblings on various topics ...
+description: I write in here sometimes about some stuff :) tech related but sometimes not idk
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: http://zenandroid.github.io
