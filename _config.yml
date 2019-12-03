@@ -11,15 +11,7 @@ url: http://zenandroid.github.io
 baseurl: ''
 
 author: zenAndroid
-copyright: 2015-2018
-
-share:
-  facebook: true
-  twitter: true
-  gplus: true
-  linkedin: true
-  pinterest: true
-  email: true
+copyright: 2015-2019
 
 social:
   github: zenAndroid
