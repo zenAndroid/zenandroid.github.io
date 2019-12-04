@@ -2,7 +2,7 @@
 layout: post
 title: Things and stuff
 tags: meta
-description: 'Twas a real struggle back in the day my friends, or maybe i was just too foolish to know how to behave myself correctly, but i like to believe the first alternative.
+description: Twas a real struggle back in the day my friends, or maybe i was just too foolish to know how to behave myself correctly, but i like to believe the first alternative.
 ---
 
 
