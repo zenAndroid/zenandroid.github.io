@@ -123,7 +123,8 @@ Secondly, the 'change power manager setting to do another action when you close 
 # Yay #
  Now i don't have to cripple myself to death and can use this otherwise awesome system the way i please it.
 
-#### Bonus ####
+## Bonus ##
+
 
 In all cases, the github repo owner clearly says:
 
