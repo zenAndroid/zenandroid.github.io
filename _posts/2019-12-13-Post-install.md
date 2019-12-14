@@ -36,7 +36,7 @@ Fear seeped into your body and your orifices as you realized the potential signi
 So you had to be a rational person, marry the scientific method and test your hypothesis.
 
 1) You turn on your install.
-2) You are connected norally to your WiFi.
+2) You are connected normally to your WiFi.
 3) You suspend your laptop.
 4) You resume it.
 
@@ -122,3 +122,12 @@ Secondly, the 'change power manager setting to do another action when you close 
 
 # Yay #
  Now i don't have to cripple myself to death and can use this otherwise awesome system the way i please it.
+
+#### Bonus ####
+
+In all cases, the github repo owner clearly says:
+
+>These drivers will not build for kernels older than 4.14. If you are using a kernel newer than 5.2,
+>I suggest that you use the driver built into the kernel!
+
+And so here i am, adapting and overcoming.
