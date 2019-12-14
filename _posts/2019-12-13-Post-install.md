@@ -2,6 +2,7 @@
 layout: post
 toc: true
 title: Manjaro everybody!
+tags: manjaro dual-boot
 description: Post install ramblings, thoughts, and plans, and a discussion between two people that are actually the same person.
 ---
 
