@@ -143,6 +143,17 @@ public:
 
 ~~I'm sure I'm missing something.~~
 
+**UPDATE** : I am indeed missing something: see below.
+
+```
+[3:52 AM] internetHandle : Let's say you have a person class with an age field, if you later change the layout to instead use a year-of-birth field, you have to go back and change every person.age acces to person.year-of-birth plus whatever processing to get the right value (age in this case)
+[3:52 AM] internetHandle : But if you use a g/s pair, you could just redefine the "get-age" method to calculate the age instead, needing to change nearly nothing
+[12:42 PM] zenAndroid: I can't fucking believe this slipped out of my mind
+[12:42 PM] zenAndroid: i cant fucking believe it
+[12:42 PM] zenAndroid: fugg
+```
+
+
 ## Back to our topic ##
 
 Anyways, the Cell class has the ``std::mutex* m_cellKey;`` field, which i did because when i tried the normal declaration, at the header making statements like ``std::mutex m_cellKey`` the compiler kept complaining about how std::mutex was non copyable and non movable, decided to try this pointer declaration method, it stopped whining, and here we are.
