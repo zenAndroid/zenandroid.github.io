@@ -23,7 +23,7 @@ Here is a vague list of my resolutions for this year
 * Read books (This is kind of an unnecessary list item because it's kind of ... Natural to me)
 * Write/Outline more often. (It's (partly) why you got that mechanical keyboard [^Kumara], after all)
 * Update blog more often.
-* GYM, JUST DO IT.
+* GYM, JUST DO IT. [^nyr]
 * NO SUGAR, CUT OUT SUGAR FROM YOUR DIET.
 
 But coming up with that list wasn't as easy as i thought at first, because you see, there are a load of other cool technologies that i want to learn:
@@ -113,6 +113,7 @@ And all the other goals are secondary to this.
 Yep, even updating my blog isn't as important to me as progressing in SICP.
 
 [^GO]: Well, i also hear of bad stuff, and this goes for all things I'm saying here, but the uncertainty is fueling me even more.
+[^nyr]:I realize what the reasearch says about most new years resolution, but even then, going to the gym for even 4 months (especially with my general metabolism) is good enough for me, plus there's a small chance that this gym-going habit will catch on.
 [^shame]: Shame on me for not knowing this, i really should.
 [^Kumara]: Will create a blog post for this.
 [^Confort]: It does not exactly help advance the conversation in any way that is actually relevant to whatever technical discussion is going on.
