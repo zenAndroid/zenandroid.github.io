@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Competence, and the coming year
-tags: meta suspected-arrogance-?
+tags: meta arrogance
 description: A new year ... another one ...
 ---
 

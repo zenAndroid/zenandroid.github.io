@@ -6,5 +6,6 @@ Run this under **tag** folder in order to generate a page for each of your tags.
 
 {% highlight bash %}
 {% for tag in site.tags %}
-echo -e '---\nlayout: tag_index\ntag: {{ tag[0] }} \n---' > '{{ tag[0] }}.md' &{% endfor %}
+echo -e '---\nlayout: tag_index\ntag: {{ tag[0] }} \n---' > '{{ tag[0] }}.md' &
+{% endfor %}
 {% endhighlight %}

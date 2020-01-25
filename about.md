@@ -14,4 +14,4 @@ I will fill in this page later, for now i want to do the most important thing (i
 # Theme #
 This blog uses [this theme from street-turtle](https://github.com/streetturtle/jekyll-clean-dark).
 
-I owe him.
+I owe him greatly.
