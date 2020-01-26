@@ -2,7 +2,7 @@
 layout: post
 title: Building Abstraction with Data
 tags: scheme sicp
-description: My overview on SICP's second chapter: Building abstraction with data.
+description: My overview on SICP's second chapter; Building abstraction with data.
 ---
 
 # I finished the second chapter in SICP #
@@ -31,5 +31,6 @@ Maybe I'll get back to it way later after i finish the book, but most likely I'l
 
 I'm just tired of my insistence on doing all of the exercises, hope i get better with this obsessive compulsive behavior.
 
+EDIT : on 2020-01-25 i already started SICP chapter 3 lol.
 
 [^not-for-long]: not-for-long though, Because i am soon going to start chapter 3: Objects, Modularity, and State.
