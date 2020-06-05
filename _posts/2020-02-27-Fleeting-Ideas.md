@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fleeting ideas ... 
-tags: quick-post sicp scheme
+tags: quick-notes sicp scheme
 description: A new idea is floating in my head now, and I don't know if I should seriously contemplate it or not ... 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can't stop, won't stop
-tags: meta future help-me
+tags: meta future misc
 description: It's a disease, and now i've understood the cure, or maybe the thought that i have understood the cure is part of the diesease ? idk ... like how people who are addicted always claim that they can stop doing whatever it is they are doing ? oh no i just spooked myself.
 ---
 
