@@ -17,13 +17,13 @@
                         <li><a href="{{ '/tag/' | append: tag | relative_url }}">{{ tag }}</a></li>
                       {% endfor %}
                     </ul>
-                  </div>
-                  <div class="post-content">
-                    {% if page.toc %}
-                      {% include toc.html html=content class='toc' %}
-                    {% endif %}
-                    {{ content }}
-                    {% include share.html %}
+                    <div class="post-content">
+                      {% if page.toc %}
+                        {% include toc.html html=content class='toc' %}
+                      {% endif %}
+                      {{ content }}
+                      {% include share.html %}
+                    </div>
                   </div>
                   <script src="https://utteranc.es/client.js"
                           repo="zenAndroid/zenandroid.github.io"
