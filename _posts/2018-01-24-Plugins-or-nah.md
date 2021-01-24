@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vim plugins ? what do you think i am, a weakling ?
+title: vim plugins ? what do you think i am, a weakling ?
 tags: vim
 ---
 
